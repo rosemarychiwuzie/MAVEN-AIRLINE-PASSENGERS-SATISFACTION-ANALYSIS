@@ -13,11 +13,10 @@ The task of this analysis is to evaluate passengers satisfaction ratings,identif
 Having understood the task of this analysis, i proceeded to implore the following analytical tools to prepare the data for analysis
 - Microsoft Excel: 
 I utilized Excel to view and understand the parameters of my dataset i.e understand each of the 24 columns and check for their varying data types.
-- PostgreSQL:
--  Postgresql is a great tool for eliminating duplicates, null values and outliers from a dataset which is a very significant aspect of analysis to improve data quality and accuracy. I successfully imported the dataset into postgresql, identified the primary key and searched for duplicates and irrelevant data.
+- PostgreSQL: Postgresql is a great tool for eliminating duplicates, null values and outliers from a dataset which is a very significant aspect of analysis to improve data quality and accuracy. I successfully imported the dataset into postgresql, identified the primary key and searched for duplicates and irrelevant data.
 ![Screenshot (35)](https://user-images.githubusercontent.com/108612390/185739055-d95d4048-0cc2-42dd-814f-f25cfaafa3be.png)
 The '0 rows affected' result shows there are no duplicates
-Power BI: A bulk of my analysis and visualization was done on Power BI. I performed calculations using DAX formulas and utilized a few charts for visualization.
+- Power BI: A bulk of my analysis and visualization was done on Power BI. I performed calculations using DAX formulas and utilized a few charts for visualization.
 # Analysis
 ![Screenshot (37)](https://user-images.githubusercontent.com/108612390/185740434-9896976b-e368-4b07-ba9f-68ecca1a6324.png)
 Click on the link below to interact with this analysis
