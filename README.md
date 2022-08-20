@@ -23,10 +23,26 @@ Power BI: A bulk of my analysis and visualization was done on Power BI. I perfor
 Click on the link below to interact with this analysis
 - https://app.powerbi.com/view?r=eyJrIjoiZmU0YTRlMTktYTFjYS00YTQ5LWJiNzgtNGZkYjYzZjMzOTVkIiwidCI6IjI3MTZhMTNmLTBhOTMtNGZlMy1hYTMxLTQ4ZDgxNTA1ZTdlNiJ9&pageName=ReportSection
 
-- The Maven Airline has a total of 129,880 passengers of which 51% were female and 49% were of the male gender. 
+![Screenshot (41)](https://user-images.githubusercontent.com/108612390/185765749-a25d46ca-cc73-4f8c-88fa-c661f97ba17e.png)
+
+- The Maven Airline dataset has a total of 129,880 feilds representing 129,880 passengers of which 51% are female and 49% are of the male gender. 
+
+- Returning passengers are 82% more than first-time passengers who are only 18%
+- Majority of the Passengers seem to prefer the Business and Economy class as they occupy 93% of the total passengers in contrast with Economy plus
+
+![Screenshot (42)](https://user-images.githubusercontent.com/108612390/185765991-1641989c-ba33-41a0-b79e-8066f506288d.png)
+- My analysis above shows that majority of the passengers board the short distance flight of less than 1000 miles. Apparently, the shorter the flight distance the more passengers on board and vice versa.
+![Screenshot (43)](https://user-images.githubusercontent.com/108612390/185766126-affdbcfe-1fc9-4640-95de-89b748f5593f.png)
+- On average, the returning passengers are more in numbers than the first-time passengers which shows that the airline is doing great with customer retention.
+![Screenshot (38)](https://user-images.githubusercontent.com/108612390/185766193-93695e1c-11b3-44fe-80aa-8144cf6859f2.png)
+
+
 - Satified passengers based on their ratings of the airline servies are 43% which is 14% lower than the Neutral/Dissatisfied passengers of 57%.
-- Analyis shows that majority(76%) of the airline passengers are Adults,followed by Youth - 11%, Children - 8% and the least number of persons are the Senior citizens with just 5% of the total passengers.
-- On an evaluation of the survey done by the passengers based on the airline services, it appears that a majority of the passengers are very satisfied with the In-flight services, the Baggage handling, seat comfort,etc and Very dissatisfied majorly with the In-flight Wifi service, Online Bookings,Gate location, in that order.
+- Analyis shows that majority(76%) of the airline passengers are Adults,followed by Youth(11%), Children(8%) and the least number of persons are the Senior citizens with just (5%) of the total passengers.
+- On an evaluation of the survey done by the passengers based on the airline services, it appears that a majority of the passengers are very satisfied with the In-flight services, the Baggage handling, seat comfort,amongst others and Very dissatisfied majorly with the In-flight Wifi service, Online Bookings,Gate location, in that order.
 
 # Recommendations;
-In-flight Wifi service is the worst rated 
+- In-flight Wifi service is the worst rated with over 6% of the total passengers grossly dissatisfied with the service. This should be inspected, upgraded and improved to ensure a general satisfactory user experience by every age group.
+- The processes of online booking should be properly checked, made easily accessible and readable for every age grade. This would make online bookings stress- free and definitely encourage more persons to use the online platforms for bookings and reduce customer churn.
+- The Gate location has also been frowned on by majority of the passengers. A geo location guide should be introduced inthe airline application as well as staffs at the airline ground to enable easy navigation of the airline premises.
+- The percentage of first-time passengers is quite low. this should be addressed by making advert placements on media platforms to attract more customers and increase sales.
