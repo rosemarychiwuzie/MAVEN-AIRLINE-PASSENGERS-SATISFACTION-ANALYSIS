@@ -50,5 +50,5 @@ Click on the link below to interact with this analysis
 # Recommendations;
 - In-flight Wifi service is the worst rated with over 6% of the total passengers grossly dissatisfied with the service. This should be inspected, upgraded and improved to ensure a general satisfactory user experience by every age group.
 - The processes of online booking should be properly checked, made easily accessible and readable for every age grade. This would make online bookings stress- free and definitely encourage more persons to use the online platforms for bookings and reduce customer churn.
-- The Gate location has also been frowned on by majority of the passengers. A geo location guide should be introduced inthe airline application as well as staffs at the airline ground to enable easy navigation of the airline premises.
-- The percentage of first-time passengers is quite low. this should be addressed by making advert placements on media platforms to attract more customers and increase sales.
+- The Gate location has also been frowned on by majority of the passengers. A geo location guide should be introduced in the airline application as well as staffs at the airline ground to enable easy navigation of the airline premises.
+- The percentage of first-time passengers is quite low. This should be addressed by making advert placements on media platforms to attract more customers and increase sales.
