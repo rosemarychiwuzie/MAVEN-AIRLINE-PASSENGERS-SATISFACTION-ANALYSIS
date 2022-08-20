@@ -21,7 +21,7 @@ Power BI: A bulk of my analysis and visualization was done on Power BI. I perfor
 # Analysis
 ![Screenshot (37)](https://user-images.githubusercontent.com/108612390/185740434-9896976b-e368-4b07-ba9f-68ecca1a6324.png)
 Click on the link below to interact with this analysis
-https://app.powerbi.com/view?r=eyJrIjoiZmU0YTRlMTktYTFjYS00YTQ5LWJiNzgtNGZkYjYzZjMzOTVkIiwidCI6IjI3MTZhMTNmLTBhOTMtNGZlMy1hYTMxLTQ4ZDgxNTA1ZTdlNiJ9&pageName=ReportSection
+- https://app.powerbi.com/view?r=eyJrIjoiZmU0YTRlMTktYTFjYS00YTQ5LWJiNzgtNGZkYjYzZjMzOTVkIiwidCI6IjI3MTZhMTNmLTBhOTMtNGZlMy1hYTMxLTQ4ZDgxNTA1ZTdlNiJ9&pageName=ReportSection
 
 - The Maven Airline has a total of 129,880 passengers of which 51% were female and 49% were of the male gender. 
 - Satified passengers based on their ratings of the airline servies are 43% which is 14% lower than the Neutral/Dissatisfied passengers of 57%.
@@ -29,4 +29,4 @@ https://app.powerbi.com/view?r=eyJrIjoiZmU0YTRlMTktYTFjYS00YTQ5LWJiNzgtNGZkYjYzZ
 - On an evaluation of the survey done by the passengers based on the airline services, it appears that a majority of the passengers are very satisfied with the In-flight services, the Baggage handling, seat comfort,etc and Very dissatisfied majorly with the In-flight Wifi service, Online Bookings,Gate location, in that order.
 
 # Recommendations;
-In-flight Wifi service is the worst rated factor 
+In-flight Wifi service is the worst rated 
