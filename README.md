@@ -18,4 +18,6 @@ PostgreSQL:
 The '0 rows affected' result shows there are no duplicates
 Power BI: A bulk of my analysis and visualization was done on Power BI. I performed calculations using the DAX function and utilized a few charts for visualization.
 # Analysis
+[airline.pdf](https://github.com/rosemarychiwuzie/MAVEN-AIRLINE-PASSENGERS-SATISFACTION-ANALYSIS/files/9386647/airline.pdf)
+
 <iframe title="airline" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZmU0YTRlMTktYTFjYS00YTQ5LWJiNzgtNGZkYjYzZjMzOTVkIiwidCI6IjI3MTZhMTNmLTBhOTMtNGZlMy1hYTMxLTQ4ZDgxNTA1ZTdlNiJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
