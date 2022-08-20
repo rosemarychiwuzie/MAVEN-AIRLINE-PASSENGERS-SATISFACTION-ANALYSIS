@@ -44,7 +44,7 @@ Click on the link below to interact with this analysis
 
 - Satified passengers based on their ratings of the airline servies are 43% which is 14% lower than the Neutral/Dissatisfied passengers of 57%.
 
-- On an evaluation of the survey done by the passengers based on the airline services, it appears that a majority of the passengers are very satisfied with the In-flight services, the Baggage handling, seat comfort,amongst others and Very dissatisfied majorly with the In-flight Wifi service, Online Bookings,Gate location, in that order.
+- On an evaluation of the survey taken by the passengers based on the airline services, it appears that a majority of the passengers are very satisfied with the In-flight services, the Baggage handling, seat comfort,amongst others and Very dissatisfied majorly with the In-flight Wifi service, Online Bookings,Gate location, in that order.
 
 # Recommendations;
 - In-flight Wifi service is the worst rated with over 6% of the total passengers grossly dissatisfied with the service. This should be inspected, upgraded and improved to ensure a general satisfactory user experience by every age group.
