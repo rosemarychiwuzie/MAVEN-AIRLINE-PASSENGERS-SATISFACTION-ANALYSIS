@@ -26,17 +26,25 @@ Click on the link below to interact with this analysis
 ![Screenshot (41)](https://user-images.githubusercontent.com/108612390/185765749-a25d46ca-cc73-4f8c-88fa-c661f97ba17e.png)
 
 - The Maven Airline dataset has a total of 129,880 records representing 129,880 passengers of which 51% are female and 49% are of the male gender. 
+
+- Analyis shows that majority(76%) of the airline passengers are Adults,followed by Youth(11%), Children(8%) and the least number of persons are the Senior citizens with just (5%) of the total passengers.
+
 - Returning passengers are 82% more than first-time passengers who are only 18%.
+
 - Majority of the Passengers seem to prefer the Business and Economy class as they occupy 93% of the total passengers in contrast with Economy plus of just 7%.
 
 ![Screenshot (42)](https://user-images.githubusercontent.com/108612390/185765991-1641989c-ba33-41a0-b79e-8066f506288d.png)
+
 - My analysis above shows that majority of the passengers board the short distance flight of less than 1000 miles. Apparently, the shorter the flight distance the more passengers on board and vice versa.
+
 ![Screenshot (43)](https://user-images.githubusercontent.com/108612390/185766126-affdbcfe-1fc9-4640-95de-89b748f5593f.png)
+
 - On average, the returning passengers are more in numbers than the first-time passengers which shows that the airline is doing well with customer retention.
+
 ![Screenshot (38)](https://user-images.githubusercontent.com/108612390/185766193-93695e1c-11b3-44fe-80aa-8144cf6859f2.png)
 
 - Satified passengers based on their ratings of the airline servies are 43% which is 14% lower than the Neutral/Dissatisfied passengers of 57%.
-- Analyis shows that majority(76%) of the airline passengers are Adults,followed by Youth(11%), Children(8%) and the least number of persons are the Senior citizens with just (5%) of the total passengers.
+
 - On an evaluation of the survey done by the passengers based on the airline services, it appears that a majority of the passengers are very satisfied with the In-flight services, the Baggage handling, seat comfort,amongst others and Very dissatisfied majorly with the In-flight Wifi service, Online Bookings,Gate location, in that order.
 
 # Recommendations;
